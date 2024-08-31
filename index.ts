@@ -13,7 +13,6 @@ function extractServicesFromFile(filePath: string): string[] {
     services.push(serviceName);
   }
 
-  console.log("Extracted services from file:", services); // Debug output
   return services;
 }
 
@@ -42,16 +41,8 @@ function saveResultToJson(filePath: string, data: any) {
   console.log(`Results saved to ${filePath}`);
 }
 
-// Get file path and output path from command line arguments
-const args = process.argv.slice(2); // Remove the first two default arguments
-if (args.length < 1) {
-  console.error("Usage: ts-node script.ts <path-to-ts-file> [output-file]");
-  process.exit(1);
-}
-
-const filePath = args[0]; // First argument is the path to the TypeScript file
-console.log("File path:", filePath); // Debug output
-const outputFilePath = args[1] || "./missing_services.json";
+const filePath = './aws-cdk/packages/aws-cdk-lib/aws-ec2/lib/vpc-endpoint.ts'
+const outputFilePath = "./missing_services.json";
 const cliOutput = [
   "aws.api.us-east-1.bcm-data-exports",
   "aws.api.us-east-1.freetier",
