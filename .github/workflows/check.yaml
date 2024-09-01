@@ -37,7 +37,7 @@ jobs:
         run: git clone https://github.com/aws/aws-cdk.git
 
       - name: Run ts-node
-        run: npx ts-node src/index.ts
+        run: npx ts-node index.ts
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3
