@@ -220,6 +220,7 @@
     "com.amazonaws.us-east-1.qapps",
     "com.amazonaws.us-east-1.qldb.session",
     "com.amazonaws.us-east-1.quicksight-website",
+    "com.amazonaws.us-east-1.ram",
     "com.amazonaws.us-east-1.rbin",
     "com.amazonaws.us-east-1.rds",
     "com.amazonaws.us-east-1.rds-data",
