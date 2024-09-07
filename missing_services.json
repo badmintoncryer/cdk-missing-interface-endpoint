@@ -18,8 +18,6 @@
   "q",
   "ram",
   "rbin",
-  "redshift-serverless",
-  "redshift-serverless-fips",
   "service.user-subscriptions",
   "ssm-fips",
   "ssm-quicksetup",
