@@ -200,6 +200,7 @@
     "com.amazonaws.us-east-1.payment-cryptography.controlplane",
     "com.amazonaws.us-east-1.payment-cryptography.dataplane",
     "com.amazonaws.us-east-1.pca-connector-ad",
+    "com.amazonaws.us-east-1.pca-connector-scep",
     "com.amazonaws.us-east-1.pcs",
     "com.amazonaws.us-east-1.pcs-fips",
     "com.amazonaws.us-east-1.personalize",

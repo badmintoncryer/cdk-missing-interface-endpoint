@@ -11,6 +11,7 @@
   "dynamodb",
   "emr-serverless-services.livy",
   "kinesis-streams-fips",
+  "pca-connector-scep",
   "pcs",
   "pcs-fips",
   "pi",
