@@ -6,6 +6,9 @@
   "cassandra",
   "cassandra-fips",
   "dynamodb",
+  "launchwizard",
+  "network-firewall",
+  "network-firewall-fips",
   "pca-connector-scep",
   "ram"
 ]
