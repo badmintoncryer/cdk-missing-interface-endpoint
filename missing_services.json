@@ -5,10 +5,5 @@
   "com.amazonaws.s3-global.accesspoint",
   "cassandra",
   "cassandra-fips",
-  "dynamodb",
-  "launchwizard",
-  "network-firewall",
-  "network-firewall-fips",
-  "pca-connector-scep",
-  "ram"
+  "dynamodb"
 ]
