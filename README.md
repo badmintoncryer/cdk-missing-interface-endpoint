@@ -8,3 +8,5 @@ aws ec2 describe-vpc-endpoint-services --filters Name=service-type,Values=Interf
 ```
 
 結果は[missing-services.json](https://github.com/badmintoncryer/cdk-missing-interface-endpoint/blob/main/missing_services.json)にまとめられています。
+
+"cassandra", "cassandra-fips"は誤検知。(port443以外非対応)
