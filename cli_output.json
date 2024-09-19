@@ -257,6 +257,7 @@
     "com.amazonaws.us-east-1.scn",
     "com.amazonaws.us-east-1.secretsmanager",
     "com.amazonaws.us-east-1.securityhub",
+    "com.amazonaws.us-east-1.serverlessrepo",
     "com.amazonaws.us-east-1.service.user-subscriptions",
     "com.amazonaws.us-east-1.servicecatalog",
     "com.amazonaws.us-east-1.servicecatalog-appregistry",

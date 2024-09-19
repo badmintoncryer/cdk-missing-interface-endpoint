@@ -1,11 +1,10 @@
 [
-  "aws.api.bcm-data-exports",
-  "aws.api.freetier",
   "com.amazonaws.iam",
   "com.amazonaws.s3-global.accesspoint",
   "cassandra",
   "cassandra-fips",
   "dynamodb",
   "guardduty",
-  "guardduty-fips"
+  "guardduty-fips",
+  "serverlessrepo"
 ]
