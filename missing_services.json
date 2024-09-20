@@ -3,8 +3,6 @@
   "com.amazonaws.s3-global.accesspoint",
   "cassandra",
   "cassandra-fips",
-  "dynamodb",
-  "guardduty",
-  "guardduty-fips",
-  "serverlessrepo"
+  "compute-optimizer",
+  "dynamodb"
 ]
