@@ -75,6 +75,7 @@
     "com.amazonaws.us-east-1.codewhisperer",
     "com.amazonaws.us-east-1.comprehend",
     "com.amazonaws.us-east-1.comprehendmedical",
+    "com.amazonaws.us-east-1.compute-optimizer",
     "com.amazonaws.us-east-1.config",
     "com.amazonaws.us-east-1.connect-campaigns",
     "com.amazonaws.us-east-1.console",
