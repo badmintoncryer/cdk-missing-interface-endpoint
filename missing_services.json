@@ -1,8 +1,8 @@
 [
+  "aws.sagemaker.experiments",
   "com.amazonaws.iam",
   "com.amazonaws.s3-global.accesspoint",
   "cassandra",
   "cassandra-fips",
-  "compute-optimizer",
   "dynamodb"
 ]
