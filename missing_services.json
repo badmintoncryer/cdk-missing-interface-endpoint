@@ -4,5 +4,7 @@
   "com.amazonaws.s3-global.accesspoint",
   "cassandra",
   "cassandra-fips",
-  "dynamodb"
+  "dynamodb",
+  "kafka",
+  "kafka-fips"
 ]
