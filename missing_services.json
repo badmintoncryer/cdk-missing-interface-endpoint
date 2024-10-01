@@ -7,5 +7,6 @@
   "cassandra-fips",
   "dynamodb",
   "kafka",
-  "kafka-fips"
+  "kafka-fips",
+  "pricing.api"
 ]
