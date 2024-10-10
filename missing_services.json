@@ -4,7 +4,5 @@
   "com.amazonaws.savingsplans",
   "cassandra",
   "cassandra-fips",
-  "kafka",
-  "kafka-fips",
   "pricing.api"
 ]
