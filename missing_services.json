@@ -4,5 +4,6 @@
   "com.amazonaws.savingsplans",
   "cassandra",
   "cassandra-fips",
+  "cost-optimization-hub",
   "pricing.api"
 ]
