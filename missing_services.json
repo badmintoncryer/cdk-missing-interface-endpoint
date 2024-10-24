@@ -6,5 +6,6 @@
   "cassandra-fips",
   "cost-optimization-hub",
   "pricing.api",
-  "social-messaging"
+  "social-messaging",
+  "workmail"
 ]
