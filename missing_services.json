@@ -4,8 +4,5 @@
   "com.amazonaws.savingsplans",
   "cassandra",
   "cassandra-fips",
-  "cost-optimization-hub",
-  "pricing.api",
-  "social-messaging",
-  "workmail"
+  "cost-optimization-hub"
 ]
