@@ -3,6 +3,5 @@
   "com.amazonaws.s3-global.accesspoint",
   "com.amazonaws.savingsplans",
   "cassandra",
-  "cassandra-fips",
-  "cost-optimization-hub"
+  "cassandra-fips"
 ]
