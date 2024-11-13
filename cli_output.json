@@ -47,6 +47,7 @@
     "com.amazonaws.us-east-1.bedrock-agent",
     "com.amazonaws.us-east-1.bedrock-agent-runtime",
     "com.amazonaws.us-east-1.bedrock-runtime",
+    "com.amazonaws.us-east-1.billing",
     "com.amazonaws.us-east-1.billingconductor",
     "com.amazonaws.us-east-1.braket",
     "com.amazonaws.us-east-1.cases",
