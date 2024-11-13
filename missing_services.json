@@ -2,6 +2,7 @@
   "com.amazonaws.iam",
   "com.amazonaws.s3-global.accesspoint",
   "com.amazonaws.savingsplans",
+  "billing",
   "cassandra",
   "cassandra-fips"
 ]
