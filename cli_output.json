@@ -292,6 +292,7 @@
     "com.amazonaws.us-east-1.swf-fips",
     "com.amazonaws.us-east-1.sync-states",
     "com.amazonaws.us-east-1.synthetics",
+    "com.amazonaws.us-east-1.tagging",
     "com.amazonaws.us-east-1.tags-omics",
     "com.amazonaws.us-east-1.tax",
     "com.amazonaws.us-east-1.textract",
