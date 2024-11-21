@@ -4,5 +4,7 @@
   "com.amazonaws.savingsplans",
   "cassandra",
   "cassandra-fips",
+  "neptune-graph-fips",
+  "synthetics-fips",
   "tagging"
 ]
