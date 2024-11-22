@@ -2,9 +2,13 @@
   "com.amazonaws.iam",
   "com.amazonaws.s3-global.accesspoint",
   "com.amazonaws.savingsplans",
+  "arsenal-discovery",
   "cassandra",
   "cassandra-fips",
+  "discovery",
   "neptune-graph-fips",
+  "resource-groups",
+  "resource-groups-fips",
   "synthetics-fips",
   "tagging"
 ]
