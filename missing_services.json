@@ -6,6 +6,8 @@
   "cassandra",
   "cassandra-fips",
   "discovery",
+  "invoicing",
+  "neptune-graph-data",
   "neptune-graph-fips",
   "resource-groups",
   "resource-groups-fips",
