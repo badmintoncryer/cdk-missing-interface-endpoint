@@ -44,6 +44,7 @@
     "com.amazonaws.us-east-1.backup",
     "com.amazonaws.us-east-1.backup-gateway",
     "com.amazonaws.us-east-1.batch",
+    "com.amazonaws.us-east-1.bcm-pricing-calculator",
     "com.amazonaws.us-east-1.bedrock",
     "com.amazonaws.us-east-1.bedrock-agent",
     "com.amazonaws.us-east-1.bedrock-agent-runtime",
