@@ -3,6 +3,7 @@
   "com.amazonaws.s3-global.accesspoint",
   "com.amazonaws.savingsplans",
   "arsenal-discovery",
+  "bcm-pricing-calculator",
   "cassandra",
   "cassandra-fips",
   "discovery",
