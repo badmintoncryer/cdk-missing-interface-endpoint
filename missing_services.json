@@ -2,16 +2,7 @@
   "com.amazonaws.iam",
   "com.amazonaws.s3-global.accesspoint",
   "com.amazonaws.savingsplans",
-  "arsenal-discovery",
-  "bcm-pricing-calculator",
   "cassandra",
   "cassandra-fips",
-  "discovery",
-  "invoicing",
-  "neptune-graph-data",
-  "neptune-graph-fips",
-  "resource-groups",
-  "resource-groups-fips",
-  "synthetics-fips",
-  "tagging"
+  "invoicing"
 ]
