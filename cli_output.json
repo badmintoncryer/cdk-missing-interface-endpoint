@@ -146,6 +146,7 @@
     "com.amazonaws.us-east-1.git-codecommit",
     "com.amazonaws.us-east-1.git-codecommit-fips",
     "com.amazonaws.us-east-1.glue",
+    "com.amazonaws.us-east-1.glue.dashboard",
     "com.amazonaws.us-east-1.grafana",
     "com.amazonaws.us-east-1.grafana-workspace",
     "com.amazonaws.us-east-1.greengrass",
