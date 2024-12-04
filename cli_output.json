@@ -265,6 +265,7 @@
     "com.amazonaws.us-east-1.runtime-v2-lex",
     "com.amazonaws.us-east-1.s3",
     "com.amazonaws.us-east-1.s3-outposts",
+    "com.amazonaws.us-east-1.s3tables",
     "com.amazonaws.us-east-1.sagemaker.api",
     "com.amazonaws.us-east-1.sagemaker.featurestore-runtime",
     "com.amazonaws.us-east-1.sagemaker.metrics",
