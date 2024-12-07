@@ -1,12 +1,7 @@
 [
-  "aws.sagemaker.partner-app",
   "com.amazonaws.iam",
   "com.amazonaws.s3-global.accesspoint",
   "com.amazonaws.savingsplans",
   "cassandra",
-  "cassandra-fips",
-  "glue.dashboard",
-  "invoicing",
-  "s3tables",
-  "sagemaker-data-science-assistant"
+  "cassandra-fips"
 ]
