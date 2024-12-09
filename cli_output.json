@@ -269,6 +269,7 @@
     "com.amazonaws.us-east-1.s3tables",
     "com.amazonaws.us-east-1.sagemaker-data-science-assistant",
     "com.amazonaws.us-east-1.sagemaker.api",
+    "com.amazonaws.us-east-1.sagemaker.api-fips",
     "com.amazonaws.us-east-1.sagemaker.featurestore-runtime",
     "com.amazonaws.us-east-1.sagemaker.metrics",
     "com.amazonaws.us-east-1.sagemaker.runtime",
