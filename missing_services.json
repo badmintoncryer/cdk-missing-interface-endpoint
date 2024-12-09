@@ -3,5 +3,6 @@
   "com.amazonaws.s3-global.accesspoint",
   "com.amazonaws.savingsplans",
   "cassandra",
-  "cassandra-fips"
+  "cassandra-fips",
+  "sagemaker.api-fips"
 ]
