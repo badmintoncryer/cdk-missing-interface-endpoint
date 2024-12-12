@@ -4,7 +4,6 @@
   "com.amazonaws.savingsplans",
   "cassandra",
   "cassandra-fips",
-  "mq",
   "observabilityadmin",
   "sagemaker.api-fips"
 ]
