@@ -204,6 +204,7 @@
     "com.amazonaws.us-east-1.memorydb-fips",
     "com.amazonaws.us-east-1.mgn",
     "com.amazonaws.us-east-1.migrationhub-orchestrator",
+    "com.amazonaws.us-east-1.migrationhub-strategy",
     "com.amazonaws.us-east-1.models-v2-lex",
     "com.amazonaws.us-east-1.monitoring",
     "com.amazonaws.us-east-1.mq",
