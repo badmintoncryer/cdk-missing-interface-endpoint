@@ -4,6 +4,13 @@
   "com.amazonaws.savingsplans",
   "cassandra",
   "cassandra-fips",
+  "ds-data",
+  "dynamodb-fips",
+  "internetmonitor",
+  "internetmonitor-fips",
+  "networkflowmonitorreports",
   "observabilityadmin",
-  "sagemaker.api-fips"
+  "sagemaker.api-fips",
+  "workspaces-web",
+  "workspaces-web-fips"
 ]
