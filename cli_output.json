@@ -217,6 +217,7 @@
     "com.amazonaws.us-east-1.neptune-graph-fips",
     "com.amazonaws.us-east-1.network-firewall",
     "com.amazonaws.us-east-1.network-firewall-fips",
+    "com.amazonaws.us-east-1.networkflowmonitor",
     "com.amazonaws.us-east-1.networkflowmonitorreports",
     "com.amazonaws.us-east-1.networkmonitor",
     "com.amazonaws.us-east-1.nimble",

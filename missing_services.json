@@ -8,6 +8,7 @@
   "dynamodb-fips",
   "internetmonitor",
   "internetmonitor-fips",
+  "networkflowmonitor",
   "networkflowmonitorreports",
   "observabilityadmin",
   "sagemaker.api-fips",
