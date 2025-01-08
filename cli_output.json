@@ -177,6 +177,7 @@
     "com.amazonaws.us-east-1.iotwireless.api",
     "com.amazonaws.us-east-1.kafka",
     "com.amazonaws.us-east-1.kafka-fips",
+    "com.amazonaws.us-east-1.kafkaconnect",
     "com.amazonaws.us-east-1.kendra",
     "com.amazonaws.us-east-1.kinesis-firehose",
     "com.amazonaws.us-east-1.kinesis-streams",
