@@ -193,6 +193,7 @@
     "com.amazonaws.us-east-1.license-manager-linux-subscriptions",
     "com.amazonaws.us-east-1.license-manager-linux-subscriptions-fips",
     "com.amazonaws.us-east-1.license-manager-user-subscriptions",
+    "com.amazonaws.us-east-1.lightsail",
     "com.amazonaws.us-east-1.logs",
     "com.amazonaws.us-east-1.lookoutequipment",
     "com.amazonaws.us-east-1.lookoutmetrics",
