@@ -131,6 +131,7 @@
     "com.amazonaws.us-east-1.emr-containers",
     "com.amazonaws.us-east-1.emr-serverless",
     "com.amazonaws.us-east-1.emr-serverless-services.livy",
+    "com.amazonaws.us-east-1.emr-serverless.dashboard",
     "com.amazonaws.us-east-1.emrwal.prod",
     "com.amazonaws.us-east-1.entityresolution",
     "com.amazonaws.us-east-1.events",
