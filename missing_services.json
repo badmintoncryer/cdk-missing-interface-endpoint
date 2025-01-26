@@ -6,6 +6,5 @@
   "cassandra",
   "cassandra-fips",
   "emr-serverless.dashboard",
-  "kafkaconnect",
   "lightsail"
 ]
