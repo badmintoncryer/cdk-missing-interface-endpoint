@@ -5,6 +5,7 @@
   "com.amazonaws.savingsplans",
   "cassandra",
   "cassandra-fips",
+  "ec2-fips",
   "emr-serverless.dashboard",
   "lightsail"
 ]
