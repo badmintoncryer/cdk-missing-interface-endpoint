@@ -110,6 +110,7 @@
     "com.amazonaws.us-east-1.dynamodb-fips",
     "com.amazonaws.us-east-1.ebs",
     "com.amazonaws.us-east-1.ec2",
+    "com.amazonaws.us-east-1.ec2-fips",
     "com.amazonaws.us-east-1.ec2messages",
     "com.amazonaws.us-east-1.ecr.api",
     "com.amazonaws.us-east-1.ecr.dkr",
