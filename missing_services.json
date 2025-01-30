@@ -7,5 +7,6 @@
   "cassandra-fips",
   "ec2-fips",
   "emr-serverless.dashboard",
-  "lightsail"
+  "lightsail",
+  "securitylake"
 ]
