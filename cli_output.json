@@ -339,6 +339,8 @@
     "com.amazonaws.us-east-1.verifiedpermissions",
     "com.amazonaws.us-east-1.voiceid",
     "com.amazonaws.us-east-1.vpc-lattice",
+    "com.amazonaws.us-east-1.wafv2",
+    "com.amazonaws.us-east-1.wafv2-fips",
     "com.amazonaws.us-east-1.wellarchitected",
     "com.amazonaws.us-east-1.wisdom",
     "com.amazonaws.us-east-1.workflows-omics",

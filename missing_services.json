@@ -8,5 +8,7 @@
   "ec2-fips",
   "emr-serverless.dashboard",
   "lightsail",
-  "securitylake"
+  "securitylake",
+  "wafv2",
+  "wafv2-fips"
 ]
