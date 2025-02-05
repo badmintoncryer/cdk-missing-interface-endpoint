@@ -293,6 +293,7 @@
     "com.amazonaws.us-east-1.secretsmanager",
     "com.amazonaws.us-east-1.securityhub",
     "com.amazonaws.us-east-1.securitylake",
+    "com.amazonaws.us-east-1.securitylake-fips",
     "com.amazonaws.us-east-1.serverlessrepo",
     "com.amazonaws.us-east-1.service.user-subscriptions",
     "com.amazonaws.us-east-1.servicecatalog",

@@ -9,6 +9,7 @@
   "emr-serverless.dashboard",
   "lightsail",
   "securitylake",
+  "securitylake-fips",
   "wafv2",
   "wafv2-fips"
 ]
