@@ -214,6 +214,7 @@
     "com.amazonaws.us-east-1.managedblockchain.bitcoin.mainnet",
     "com.amazonaws.us-east-1.managedblockchain.bitcoin.testnet",
     "com.amazonaws.us-east-1.mediaconnect",
+    "com.amazonaws.us-east-1.mediaconvert",
     "com.amazonaws.us-east-1.medical-imaging",
     "com.amazonaws.us-east-1.memory-db",
     "com.amazonaws.us-east-1.memorydb-fips",
