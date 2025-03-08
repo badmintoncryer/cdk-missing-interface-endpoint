@@ -5,13 +5,12 @@
   "com.amazonaws.savingsplans",
   "cassandra",
   "cassandra-fips",
+  "diode",
   "dlm",
   "ec2-fips",
   "emr-serverless.dashboard",
   "lightsail",
   "mediaconvert",
   "securitylake",
-  "securitylake-fips",
-  "wafv2",
-  "wafv2-fips"
+  "securitylake-fips"
 ]
