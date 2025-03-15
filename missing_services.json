@@ -9,5 +9,7 @@
   "dlm",
   "ec2-fips",
   "lightsail",
-  "mediaconvert"
+  "mediaconvert",
+  "shield",
+  "shield-fips"
 ]
