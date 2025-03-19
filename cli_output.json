@@ -301,6 +301,7 @@
     "com.amazonaws.us-east-1.sagemaker.metrics",
     "com.amazonaws.us-east-1.sagemaker.runtime",
     "com.amazonaws.us-east-1.sagemaker.runtime-fips",
+    "com.amazonaws.us-east-1.scheduler",
     "com.amazonaws.us-east-1.schemas",
     "com.amazonaws.us-east-1.scn",
     "com.amazonaws.us-east-1.secretsmanager",
