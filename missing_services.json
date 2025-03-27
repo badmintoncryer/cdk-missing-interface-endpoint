@@ -7,6 +7,7 @@
   "cassandra-fips",
   "diode",
   "dlm",
+  "dynamodb-streams",
   "ec2-fips",
   "lightsail",
   "mediaconvert",
