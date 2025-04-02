@@ -10,8 +10,6 @@
   "dynamodb-streams",
   "ec2-fips",
   "lightsail",
-  "mail-manager",
-  "mail-manager-fips",
   "mediaconvert",
   "notifications",
   "rolesanywhere-fips",
