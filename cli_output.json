@@ -319,6 +319,7 @@
     "com.amazonaws.us-east-1.servicecatalog-appregistry",
     "com.amazonaws.us-east-1.servicediscovery",
     "com.amazonaws.us-east-1.servicediscovery-fips",
+    "com.amazonaws.us-east-1.servicequotas",
     "com.amazonaws.us-east-1.shield",
     "com.amazonaws.us-east-1.shield-fips",
     "com.amazonaws.us-east-1.signin",
