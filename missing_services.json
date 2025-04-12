@@ -6,6 +6,7 @@
   "cassandra",
   "cassandra-fips",
   "diode",
+  "diode-fips",
   "dlm",
   "ds-data-fips",
   "dynamodb-streams",
