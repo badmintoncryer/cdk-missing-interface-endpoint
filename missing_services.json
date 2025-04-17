@@ -1,5 +1,7 @@
 [
   "aws.api.emr-service-cell01",
+  "aws.api.resource-explorer-2",
+  "aws.api.resource-explorer-2-fips",
   "com.amazonaws.iam",
   "com.amazonaws.s3-global.accesspoint",
   "com.amazonaws.savingsplans",
@@ -9,6 +11,8 @@
   "diode-fips",
   "dlm",
   "ds-data-fips",
+  "dsql",
+  "dsql-fnh4",
   "dynamodb-streams",
   "ec2-fips",
   "license-manager-user-subscriptions-fips",
