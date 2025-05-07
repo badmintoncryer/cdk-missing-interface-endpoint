@@ -28,5 +28,6 @@
   "security-ir",
   "servicequotas",
   "shield",
-  "shield-fips"
+  "shield-fips",
+  "sqs-fips"
 ]
