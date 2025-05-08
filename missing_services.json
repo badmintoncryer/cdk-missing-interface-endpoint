@@ -29,5 +29,6 @@
   "servicequotas",
   "shield",
   "shield-fips",
-  "sqs-fips"
+  "sqs-fips",
+  "sts-fips"
 ]
