@@ -20,6 +20,7 @@
   "mail-manager-smtp.auth.fips",
   "mail-manager-smtp.open.fips",
   "mediaconvert",
+  "mq-fips",
   "notifications",
   "notifications-contacts",
   "rolesanywhere-fips",

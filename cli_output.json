@@ -242,6 +242,7 @@
     "com.amazonaws.us-east-1.models-v2-lex",
     "com.amazonaws.us-east-1.monitoring",
     "com.amazonaws.us-east-1.mq",
+    "com.amazonaws.us-east-1.mq-fips",
     "com.amazonaws.us-east-1.neptune-graph",
     "com.amazonaws.us-east-1.neptune-graph-data",
     "com.amazonaws.us-east-1.neptune-graph-fips",
