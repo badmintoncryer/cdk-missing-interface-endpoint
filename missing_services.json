@@ -13,7 +13,6 @@
   "ds-data-fips",
   "dsql",
   "dsql-fnh4",
-  "dynamodb-streams",
   "ec2-fips",
   "license-manager-user-subscriptions-fips",
   "lightsail",
