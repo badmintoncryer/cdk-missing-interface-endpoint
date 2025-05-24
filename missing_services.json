@@ -14,6 +14,7 @@
   "dsql",
   "dsql-fnh4",
   "ec2-fips",
+  "fis-fips",
   "license-manager-user-subscriptions-fips",
   "lightsail",
   "mail-manager-smtp.auth.fips",
