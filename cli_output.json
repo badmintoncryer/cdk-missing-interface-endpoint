@@ -155,6 +155,7 @@
     "com.amazonaws.us-east-1.finspace",
     "com.amazonaws.us-east-1.finspace-api",
     "com.amazonaws.us-east-1.fis",
+    "com.amazonaws.us-east-1.fis-fips",
     "com.amazonaws.us-east-1.forecast",
     "com.amazonaws.us-east-1.forecast-fips",
     "com.amazonaws.us-east-1.forecastquery",
