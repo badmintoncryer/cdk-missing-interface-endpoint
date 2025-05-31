@@ -149,6 +149,7 @@
     "com.amazonaws.us-east-1.emrwal.prod",
     "com.amazonaws.us-east-1.entityresolution",
     "com.amazonaws.us-east-1.events",
+    "com.amazonaws.us-east-1.events-fips",
     "com.amazonaws.us-east-1.evidently",
     "com.amazonaws.us-east-1.evidently-dataplane",
     "com.amazonaws.us-east-1.execute-api",
