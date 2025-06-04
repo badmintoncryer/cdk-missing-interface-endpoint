@@ -21,6 +21,7 @@
   "mail-manager-smtp.auth.fips",
   "mail-manager-smtp.open.fips",
   "mediaconvert",
+  "mediaconvert-fips",
   "mq-fips",
   "notifications",
   "notifications-contacts",
