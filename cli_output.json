@@ -369,6 +369,8 @@
     "com.amazonaws.us-east-1.thinclient.api",
     "com.amazonaws.us-east-1.timestream-influxdb",
     "com.amazonaws.us-east-1.timestream-influxdb-fips",
+    "com.amazonaws.us-east-1.timestream.ingest-cell2",
+    "com.amazonaws.us-east-1.timestream.query-cell2",
     "com.amazonaws.us-east-1.tnb",
     "com.amazonaws.us-east-1.transcribe",
     "com.amazonaws.us-east-1.transcribestreaming",
