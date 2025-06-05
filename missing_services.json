@@ -33,5 +33,7 @@
   "shield",
   "shield-fips",
   "sqs-fips",
-  "sts-fips"
+  "sts-fips",
+  "timestream.ingest-cell2",
+  "timestream.query-cell2"
 ]
