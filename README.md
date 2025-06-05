@@ -10,3 +10,6 @@ aws ec2 describe-vpc-endpoint-services --filters Name=service-type,Values=Interf
 結果は[missing-services.json](https://github.com/badmintoncryer/cdk-missing-interface-endpoint/blob/main/missing_services.json)にまとめられています。
 
 "cassandra", "cassandra-fips"は誤検知。(port443以外非対応)
+"dsql-fnh4"はリージョン固有のsuffixが付いたEndpointなのでCDKでのpublic staticなファクトリーメソッドとしては追加不可
+
+参考リンク: https://github.com/aws/aws-cdk/pull/34487#discussion_r2100794729
