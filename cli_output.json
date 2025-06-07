@@ -22,6 +22,7 @@
     "com.amazonaws.us-east-1.airflow.env-fips",
     "com.amazonaws.us-east-1.airflow.ops",
     "com.amazonaws.us-east-1.analytics-omics",
+    "com.amazonaws.us-east-1.apigateway",
     "com.amazonaws.us-east-1.app-integrations",
     "com.amazonaws.us-east-1.appconfig",
     "com.amazonaws.us-east-1.appconfigdata",
