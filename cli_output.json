@@ -114,6 +114,7 @@
     "com.amazonaws.us-east-1.directconnect",
     "com.amazonaws.us-east-1.discovery",
     "com.amazonaws.us-east-1.dlm",
+    "com.amazonaws.us-east-1.dlm-fips",
     "com.amazonaws.us-east-1.dms",
     "com.amazonaws.us-east-1.dms-fips",
     "com.amazonaws.us-east-1.drs",
