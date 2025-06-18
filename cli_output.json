@@ -295,6 +295,7 @@
     "com.amazonaws.us-east-1.qldb.session",
     "com.amazonaws.us-east-1.quicksight-website",
     "com.amazonaws.us-east-1.ram",
+    "com.amazonaws.us-east-1.ram-fips",
     "com.amazonaws.us-east-1.rbin",
     "com.amazonaws.us-east-1.rds",
     "com.amazonaws.us-east-1.rds-data",
@@ -396,6 +397,7 @@
     "com.amazonaws.us-east-1.workflows-omics",
     "com.amazonaws.us-east-1.workmail",
     "com.amazonaws.us-east-1.workspaces",
+    "com.amazonaws.us-east-1.workspaces-instances",
     "com.amazonaws.us-east-1.workspaces-web",
     "com.amazonaws.us-east-1.workspaces-web-fips",
     "com.amazonaws.us-east-1.xray"

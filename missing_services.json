@@ -32,15 +32,13 @@
   "mq-fips",
   "notifications",
   "notifications-contacts",
+  "ram-fips",
   "rolesanywhere-fips",
   "sagemaker.featurestore-runtime-fips",
   "scheduler",
   "security-ir",
   "servicequotas",
-  "shield",
-  "shield-fips",
-  "sqs-fips",
-  "sts-fips",
   "timestream.ingest-cell2",
-  "timestream.query-cell2"
+  "timestream.query-cell2",
+  "workspaces-instances"
 ]
