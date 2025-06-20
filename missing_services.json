@@ -25,6 +25,7 @@
   "evs-fips",
   "fis-fips",
   "highlander",
+  "inspector-scan-fips",
   "license-manager-user-subscriptions-fips",
   "lightsail",
   "mail-manager-smtp.auth.fips",
@@ -43,5 +44,6 @@
   "servicequotas",
   "timestream.ingest-cell2",
   "timestream.query-cell2",
+  "verifiedpermissions-fips",
   "workspaces-instances"
 ]
