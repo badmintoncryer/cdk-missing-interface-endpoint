@@ -1,4 +1,5 @@
 [
+  "api.aws.cassandra-streams",
   "aws.api.emr-service-cell01",
   "aws.api.resource-explorer-2",
   "aws.api.resource-explorer-2-fips",
@@ -15,6 +16,7 @@
   "diode",
   "diode-fips",
   "directconnect",
+  "directconnect-fips",
   "dlm",
   "dlm-fips",
   "ds-data-fips",

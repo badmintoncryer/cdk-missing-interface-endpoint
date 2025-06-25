@@ -1,4 +1,5 @@
 [
+    "api.aws.us-east-1.cassandra-streams",
     "aws.api.us-east-1.bcm-data-exports",
     "aws.api.us-east-1.emr-service-cell01",
     "aws.api.us-east-1.freetier",
@@ -114,6 +115,7 @@
     "com.amazonaws.us-east-1.diode",
     "com.amazonaws.us-east-1.diode-fips",
     "com.amazonaws.us-east-1.directconnect",
+    "com.amazonaws.us-east-1.directconnect-fips",
     "com.amazonaws.us-east-1.discovery",
     "com.amazonaws.us-east-1.dlm",
     "com.amazonaws.us-east-1.dlm-fips",
