@@ -248,6 +248,7 @@
     "com.amazonaws.us-east-1.lorawan.lns",
     "com.amazonaws.us-east-1.m2",
     "com.amazonaws.us-east-1.macie2",
+    "com.amazonaws.us-east-1.macie2-fips",
     "com.amazonaws.us-east-1.mail-manager",
     "com.amazonaws.us-east-1.mail-manager-fips",
     "com.amazonaws.us-east-1.mail-manager-smtp.auth.fips",
