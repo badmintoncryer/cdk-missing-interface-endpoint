@@ -39,6 +39,7 @@
   "inspector2-fips",
   "license-manager-user-subscriptions-fips",
   "lightsail",
+  "macie2-fips",
   "mail-manager-smtp.auth.fips",
   "mail-manager-smtp.open.fips",
   "mediaconvert",
