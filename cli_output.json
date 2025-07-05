@@ -87,6 +87,7 @@
     "com.amazonaws.us-east-1.codeconnections.api",
     "com.amazonaws.us-east-1.codedeploy",
     "com.amazonaws.us-east-1.codedeploy-commands-secure",
+    "com.amazonaws.us-east-1.codedeploy-fips",
     "com.amazonaws.us-east-1.codeguru-profiler",
     "com.amazonaws.us-east-1.codeguru-reviewer",
     "com.amazonaws.us-east-1.codepipeline",

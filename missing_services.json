@@ -13,6 +13,7 @@
   "cassandra",
   "cassandra-fips",
   "cleanrooms-fips",
+  "codedeploy-fips",
   "controltower",
   "controltower-fips",
   "databrew-fips",
