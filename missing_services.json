@@ -60,6 +60,7 @@
   "securityhub-fips",
   "servicequotas",
   "social-messaging-fips",
+  "ssm-incidents-fips",
   "timestream.ingest-cell2",
   "timestream.query-cell2",
   "transform",
