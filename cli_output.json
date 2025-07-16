@@ -148,6 +148,7 @@
     "com.amazonaws.us-east-1.eks",
     "com.amazonaws.us-east-1.eks-auth",
     "com.amazonaws.us-east-1.eks-fips",
+    "com.amazonaws.us-east-1.eks-proxy",
     "com.amazonaws.us-east-1.elastic-inference.runtime",
     "com.amazonaws.us-east-1.elasticache",
     "com.amazonaws.us-east-1.elasticache-fips",

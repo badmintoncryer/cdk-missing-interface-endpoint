@@ -29,6 +29,7 @@
   "ebs-fips",
   "ec2-fips",
   "eks-fips",
+  "eks-proxy",
   "elasticmapreduce-fips",
   "events-fips",
   "evs",
