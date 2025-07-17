@@ -14,6 +14,7 @@
   "cassandra-fips",
   "cleanrooms-fips",
   "codedeploy-fips",
+  "control-storage-omics-fips",
   "controltower",
   "controltower-fips",
   "databrew-fips",

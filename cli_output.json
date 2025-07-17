@@ -100,6 +100,7 @@
     "com.amazonaws.us-east-1.connect-campaigns",
     "com.amazonaws.us-east-1.console",
     "com.amazonaws.us-east-1.control-storage-omics",
+    "com.amazonaws.us-east-1.control-storage-omics-fips",
     "com.amazonaws.us-east-1.controlcatalog",
     "com.amazonaws.us-east-1.controltower",
     "com.amazonaws.us-east-1.controltower-fips",
