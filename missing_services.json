@@ -9,6 +9,7 @@
   "access-analyzer-fips",
   "aiops",
   "aiops-fips",
+  "analytics-omics-fips",
   "apigateway",
   "cassandra",
   "cassandra-fips",
