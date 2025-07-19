@@ -37,6 +37,8 @@
   "evs",
   "evs-fips",
   "fis-fips",
+  "fms",
+  "fms-fips",
   "groundstation-fips",
   "highlander",
   "inspector-scan-fips",
@@ -48,6 +50,7 @@
   "mail-manager-smtp.open.fips",
   "mediaconvert",
   "mediaconvert-fips",
+  "metering-marketplace",
   "mpa",
   "mq-fips",
   "notifications",
@@ -64,9 +67,11 @@
   "servicequotas",
   "social-messaging-fips",
   "ssm-incidents-fips",
+  "tags-omics-fips",
   "timestream.ingest-cell2",
   "timestream.query-cell2",
   "transform",
   "verifiedpermissions-fips",
+  "workflows-omics-fips",
   "workspaces-instances"
 ]
