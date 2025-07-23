@@ -429,6 +429,7 @@
     "com.amazonaws.us-east-1.workflows-omics",
     "com.amazonaws.us-east-1.workflows-omics-fips",
     "com.amazonaws.us-east-1.workmail",
+    "com.amazonaws.us-east-1.workmailmessageflow",
     "com.amazonaws.us-east-1.workspaces",
     "com.amazonaws.us-east-1.workspaces-instances",
     "com.amazonaws.us-east-1.workspaces-web",
