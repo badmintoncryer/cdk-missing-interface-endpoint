@@ -11,6 +11,7 @@
   "aiops-fips",
   "analytics-omics-fips",
   "apigateway",
+  "athena-fips",
   "backup-fips",
   "bedrock-runtime-fips",
   "cassandra",

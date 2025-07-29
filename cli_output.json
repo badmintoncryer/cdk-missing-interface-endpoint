@@ -46,6 +46,7 @@
     "com.amazonaws.us-east-1.aps-workspaces",
     "com.amazonaws.us-east-1.arsenal-discovery",
     "com.amazonaws.us-east-1.athena",
+    "com.amazonaws.us-east-1.athena-fips",
     "com.amazonaws.us-east-1.auditmanager",
     "com.amazonaws.us-east-1.autoscaling",
     "com.amazonaws.us-east-1.autoscaling-plans",
