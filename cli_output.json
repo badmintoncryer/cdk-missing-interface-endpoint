@@ -47,6 +47,7 @@
     "com.amazonaws.us-east-1.aps-workspaces",
     "com.amazonaws.us-east-1.arc-region-switch",
     "com.amazonaws.us-east-1.arc-region-switch-control-plane",
+    "com.amazonaws.us-east-1.arc-zonal-shift",
     "com.amazonaws.us-east-1.arsenal-discovery",
     "com.amazonaws.us-east-1.athena",
     "com.amazonaws.us-east-1.athena-fips",
