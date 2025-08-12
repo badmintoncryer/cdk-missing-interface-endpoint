@@ -85,6 +85,7 @@
   "timestream.ingest-cell2",
   "timestream.query-cell2",
   "transform",
+  "uxc",
   "verifiedpermissions-fips",
   "workflows-omics-fips",
   "workmailmessageflow",

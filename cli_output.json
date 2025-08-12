@@ -432,6 +432,7 @@
     "com.amazonaws.us-east-1.transform",
     "com.amazonaws.us-east-1.translate",
     "com.amazonaws.us-east-1.trustedadvisor",
+    "com.amazonaws.us-east-1.uxc",
     "com.amazonaws.us-east-1.verifiedpermissions",
     "com.amazonaws.us-east-1.verifiedpermissions-fips",
     "com.amazonaws.us-east-1.voiceid",
