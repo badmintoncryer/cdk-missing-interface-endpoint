@@ -17,6 +17,8 @@
     "com.amazonaws.us-east-1.access-analyzer",
     "com.amazonaws.us-east-1.access-analyzer-fips",
     "com.amazonaws.us-east-1.account",
+    "com.amazonaws.us-east-1.acm",
+    "com.amazonaws.us-east-1.acm-fips",
     "com.amazonaws.us-east-1.acm-pca",
     "com.amazonaws.us-east-1.acm-pca-fips",
     "com.amazonaws.us-east-1.aiops",
