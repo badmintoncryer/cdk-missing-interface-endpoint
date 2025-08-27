@@ -225,6 +225,7 @@
     "com.amazonaws.us-east-1.highlander",
     "com.amazonaws.us-east-1.identitystore",
     "com.amazonaws.us-east-1.imagebuilder",
+    "com.amazonaws.us-east-1.imagebuilder-fips",
     "com.amazonaws.us-east-1.inspector-scan",
     "com.amazonaws.us-east-1.inspector-scan-fips",
     "com.amazonaws.us-east-1.inspector2",
