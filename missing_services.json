@@ -81,6 +81,7 @@
   "scheduler",
   "security-ir",
   "securityhub-fips",
+  "servicecatalog-fips",
   "servicequotas",
   "social-messaging-fips",
   "ssm-incidents-fips",

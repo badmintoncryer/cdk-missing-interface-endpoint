@@ -385,6 +385,7 @@
     "com.amazonaws.us-east-1.service.user-subscriptions",
     "com.amazonaws.us-east-1.servicecatalog",
     "com.amazonaws.us-east-1.servicecatalog-appregistry",
+    "com.amazonaws.us-east-1.servicecatalog-fips",
     "com.amazonaws.us-east-1.servicediscovery",
     "com.amazonaws.us-east-1.servicediscovery-fips",
     "com.amazonaws.us-east-1.servicequotas",
