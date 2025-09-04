@@ -249,6 +249,8 @@
     "com.amazonaws.us-east-1.kinesis-firehose",
     "com.amazonaws.us-east-1.kinesis-streams",
     "com.amazonaws.us-east-1.kinesis-streams-fips",
+    "com.amazonaws.us-east-1.kinesisanalytics",
+    "com.amazonaws.us-east-1.kinesisanalytics-fips",
     "com.amazonaws.us-east-1.kms",
     "com.amazonaws.us-east-1.kms-fips",
     "com.amazonaws.us-east-1.lakeformation",

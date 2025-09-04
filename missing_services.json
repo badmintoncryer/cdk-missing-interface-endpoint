@@ -58,6 +58,8 @@
   "imagebuilder-fips",
   "inspector-scan-fips",
   "inspector2-fips",
+  "kinesisanalytics",
+  "kinesisanalytics-fips",
   "license-manager-user-subscriptions-fips",
   "lightsail",
   "logs-fips",
