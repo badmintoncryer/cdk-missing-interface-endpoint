@@ -66,6 +66,7 @@
     "com.amazonaws.us-east-1.bedrock",
     "com.amazonaws.us-east-1.bedrock-agent",
     "com.amazonaws.us-east-1.bedrock-agent-runtime",
+    "com.amazonaws.us-east-1.bedrock-agentcore.gateway",
     "com.amazonaws.us-east-1.bedrock-data-automation",
     "com.amazonaws.us-east-1.bedrock-data-automation-fips",
     "com.amazonaws.us-east-1.bedrock-data-automation-runtime",

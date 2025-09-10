@@ -19,6 +19,7 @@
   "arc-zonal-shift",
   "athena-fips",
   "backup-fips",
+  "bedrock-agentcore.gateway",
   "bedrock-fips",
   "bedrock-runtime-fips",
   "cassandra",
