@@ -307,6 +307,7 @@
     "com.amazonaws.us-east-1.nimble",
     "com.amazonaws.us-east-1.notifications",
     "com.amazonaws.us-east-1.notifications-contacts",
+    "com.amazonaws.us-east-1.oam",
     "com.amazonaws.us-east-1.observabilityadmin",
     "com.amazonaws.us-east-1.odb",
     "com.amazonaws.us-east-1.odb-fips",
