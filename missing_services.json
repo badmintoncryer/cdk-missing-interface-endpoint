@@ -74,6 +74,7 @@
   "mq-fips",
   "notifications",
   "notifications-contacts",
+  "oam",
   "odb",
   "odb-fips",
   "polly-fips",
