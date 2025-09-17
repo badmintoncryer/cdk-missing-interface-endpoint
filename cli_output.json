@@ -183,6 +183,7 @@
     "com.amazonaws.us-east-1.emr-serverless.dashboard",
     "com.amazonaws.us-east-1.emrwal.prod",
     "com.amazonaws.us-east-1.entityresolution",
+    "com.amazonaws.us-east-1.entityresolution-fips",
     "com.amazonaws.us-east-1.events",
     "com.amazonaws.us-east-1.events-fips",
     "com.amazonaws.us-east-1.evidently",

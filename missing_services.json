@@ -48,6 +48,7 @@
   "elasticbeanstalk-fips",
   "elasticloadbalancing-fips",
   "elasticmapreduce-fips",
+  "entityresolution-fips",
   "events-fips",
   "evs",
   "evs-fips",
