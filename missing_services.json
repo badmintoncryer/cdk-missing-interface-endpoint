@@ -40,6 +40,7 @@
   "dlm",
   "dlm-fips",
   "ds-data-fips",
+  "ds-fips",
   "dsql-fnh4",
   "ebs-fips",
   "ec2-fips",
