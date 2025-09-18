@@ -145,6 +145,7 @@
     "com.amazonaws.us-east-1.ds",
     "com.amazonaws.us-east-1.ds-data",
     "com.amazonaws.us-east-1.ds-data-fips",
+    "com.amazonaws.us-east-1.ds-fips",
     "com.amazonaws.us-east-1.dsql",
     "com.amazonaws.us-east-1.dsql-fnh4",
     "com.amazonaws.us-east-1.dynamodb",
