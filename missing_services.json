@@ -96,6 +96,8 @@
   "tags-omics-fips",
   "timestream.ingest-cell2",
   "timestream.query-cell2",
+  "transcribe-fips",
+  "transfer-fips",
   "transform",
   "uxc",
   "verifiedpermissions-fips",
