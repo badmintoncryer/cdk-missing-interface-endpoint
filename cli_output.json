@@ -463,5 +463,6 @@
     "com.amazonaws.us-east-1.workspaces-instances",
     "com.amazonaws.us-east-1.workspaces-web",
     "com.amazonaws.us-east-1.workspaces-web-fips",
-    "com.amazonaws.us-east-1.xray"
+    "com.amazonaws.us-east-1.xray",
+    "com.amazonaws.us-east-1.xray-fips"
 ]
