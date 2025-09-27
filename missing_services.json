@@ -93,6 +93,7 @@
   "securityhub-fips",
   "servicecatalog-fips",
   "servicequotas",
+  "sns-fips",
   "social-messaging-fips",
   "ssm-incidents-fips",
   "ssm-sap",
