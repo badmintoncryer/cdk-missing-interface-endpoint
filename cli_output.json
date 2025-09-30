@@ -43,6 +43,7 @@
     "com.amazonaws.us-east-1.apprunner.requests",
     "com.amazonaws.us-east-1.appstream.api",
     "com.amazonaws.us-east-1.appstream.streaming",
+    "com.amazonaws.us-east-1.appsync",
     "com.amazonaws.us-east-1.appsync-api",
     "com.amazonaws.us-east-1.apptest",
     "com.amazonaws.us-east-1.aps",
