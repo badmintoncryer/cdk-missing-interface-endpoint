@@ -21,8 +21,6 @@
   "athena-fips",
   "autoscaling-fips",
   "backup-fips",
-  "bedrock-agentcore",
-  "bedrock-agentcore.gateway",
   "bedrock-fips",
   "bedrock-runtime-fips",
   "cassandra",
