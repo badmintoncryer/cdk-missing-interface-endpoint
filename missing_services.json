@@ -115,6 +115,7 @@
   "verifiedpermissions-fips",
   "workflows-omics-fips",
   "workmailmessageflow",
+  "workspaces-fips",
   "workspaces-instances",
   "xray-fips"
 ]
