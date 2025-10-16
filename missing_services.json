@@ -68,6 +68,7 @@
   "imagebuilder-fips",
   "inspector-scan-fips",
   "inspector2-fips",
+  "ivs.contribute",
   "kinesis-firehose-fips",
   "kinesisanalytics",
   "kinesisanalytics-fips",

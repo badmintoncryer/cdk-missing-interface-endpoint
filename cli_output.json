@@ -254,6 +254,7 @@
     "com.amazonaws.us-east-1.iottwinmaker.api",
     "com.amazonaws.us-east-1.iottwinmaker.data",
     "com.amazonaws.us-east-1.iotwireless.api",
+    "com.amazonaws.us-east-1.ivs.contribute",
     "com.amazonaws.us-east-1.kafka",
     "com.amazonaws.us-east-1.kafka-fips",
     "com.amazonaws.us-east-1.kafkaconnect",
