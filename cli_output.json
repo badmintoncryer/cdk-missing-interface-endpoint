@@ -374,6 +374,7 @@
     "com.amazonaws.us-east-1.rolesanywhere",
     "com.amazonaws.us-east-1.rolesanywhere-fips",
     "com.amazonaws.us-east-1.route53profiles",
+    "com.amazonaws.us-east-1.route53resolver",
     "com.amazonaws.us-east-1.rum",
     "com.amazonaws.us-east-1.rum-dataplane",
     "com.amazonaws.us-east-1.runtime-medical-imaging",

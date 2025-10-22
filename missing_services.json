@@ -93,6 +93,7 @@
   "rds-fips",
   "rolesanywhere-fips",
   "route53profiles",
+  "route53resolver",
   "sagemaker.featurestore-runtime-fips",
   "scheduler",
   "secretsmanager-fips",
