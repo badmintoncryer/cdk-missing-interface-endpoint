@@ -137,6 +137,7 @@
     "com.amazonaws.us-east-1.detective-fips",
     "com.amazonaws.us-east-1.deviceadvisor.iot",
     "com.amazonaws.us-east-1.devops-guru",
+    "com.amazonaws.us-east-1.devops-guru-fips.beta",
     "com.amazonaws.us-east-1.dicom-medical-imaging",
     "com.amazonaws.us-east-1.dilithium",
     "com.amazonaws.us-east-1.diode",
