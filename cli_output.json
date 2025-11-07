@@ -162,6 +162,7 @@
     "com.amazonaws.us-east-1.dynamodb",
     "com.amazonaws.us-east-1.dynamodb-fips",
     "com.amazonaws.us-east-1.dynamodb-streams",
+    "com.amazonaws.us-east-1.dynamodb-streams-fips",
     "com.amazonaws.us-east-1.ebs",
     "com.amazonaws.us-east-1.ebs-fips",
     "com.amazonaws.us-east-1.ec2",

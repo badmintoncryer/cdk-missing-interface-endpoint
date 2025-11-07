@@ -51,6 +51,7 @@
   "ds-data-fips",
   "ds-fips",
   "dsql-fnh4",
+  "dynamodb-streams-fips",
   "ebs-fips",
   "ec2-fips",
   "ecs-fips",
