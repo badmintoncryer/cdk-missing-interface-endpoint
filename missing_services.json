@@ -37,8 +37,6 @@
   "cloudformation-fips",
   "cloudtrail-fips",
   "codedeploy-fips",
-  "cognito-idp",
-  "cognito-idp-fips",
   "config-fips",
   "control-storage-omics-fips",
   "controltower",
