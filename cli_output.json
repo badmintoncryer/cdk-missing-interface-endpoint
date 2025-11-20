@@ -12,6 +12,7 @@
     "aws.sagemaker.us-east-1.partner-app",
     "aws.sagemaker.us-east-1.studio",
     "com.amazonaws.iam",
+    "com.amazonaws.route53",
     "com.amazonaws.s3-global.accesspoint",
     "com.amazonaws.savingsplans",
     "com.amazonaws.us-east-1.access-analyzer",
