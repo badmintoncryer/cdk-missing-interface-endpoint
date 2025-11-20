@@ -4,6 +4,7 @@
   "aws.api.resource-explorer-2",
   "aws.api.resource-explorer-2-fips",
   "com.amazonaws.iam",
+  "com.amazonaws.route53",
   "com.amazonaws.s3-global.accesspoint",
   "com.amazonaws.savingsplans",
   "access-analyzer-fips",
