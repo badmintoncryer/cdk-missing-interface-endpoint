@@ -315,7 +315,6 @@
     "com.amazonaws.us-east-1.logs",
     "com.amazonaws.us-east-1.logs-fips",
     "com.amazonaws.us-east-1.lookoutequipment",
-    "com.amazonaws.us-east-1.lookoutmetrics",
     "com.amazonaws.us-east-1.lookoutvision",
     "com.amazonaws.us-east-1.lorawan.cups",
     "com.amazonaws.us-east-1.lorawan.lns",
