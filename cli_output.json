@@ -361,6 +361,7 @@
     "com.amazonaws.us-east-1.organizations-fips",
     "com.amazonaws.us-east-1.outposts",
     "com.amazonaws.us-east-1.panorama",
+    "com.amazonaws.us-east-1.partnercentral-selling",
     "com.amazonaws.us-east-1.payment-cryptography.controlplane",
     "com.amazonaws.us-east-1.payment-cryptography.dataplane",
     "com.amazonaws.us-east-1.pca-connector-ad",
