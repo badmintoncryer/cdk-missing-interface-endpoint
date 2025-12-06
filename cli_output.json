@@ -8,6 +8,7 @@
     "aws.api.us-east-1.resource-explorer-2",
     "aws.api.us-east-1.resource-explorer-2-fips",
     "aws.sagemaker.us-east-1.experiments",
+    "aws.sagemaker.us-east-1.mlflow",
     "aws.sagemaker.us-east-1.notebook",
     "aws.sagemaker.us-east-1.partner-app",
     "aws.sagemaker.us-east-1.studio",
