@@ -1,6 +1,8 @@
 [
   "api.aws.cassandra-streams",
   "aws.api.emr-service-cell01",
+  "aws.api.kafka",
+  "aws.api.kafka-fips",
   "aws.api.resource-explorer-2",
   "aws.api.resource-explorer-2-fips",
   "aws.sagemaker.mlflow",
@@ -36,6 +38,8 @@
   "cloudformation-fips",
   "cloudtrail-fips",
   "codedeploy-fips",
+  "cognito-identity",
+  "cognito-identity-fips",
   "config-fips",
   "control-storage-omics-fips",
   "controltower",
