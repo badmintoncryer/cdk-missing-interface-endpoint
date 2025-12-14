@@ -58,6 +58,7 @@
   "directconnect-fips",
   "dlm",
   "dlm-fips",
+  "drs-fips",
   "ds-data-fips",
   "ds-fips",
   "dsql-fnh4",

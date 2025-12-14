@@ -170,6 +170,7 @@
     "com.amazonaws.us-east-1.dms",
     "com.amazonaws.us-east-1.dms-fips",
     "com.amazonaws.us-east-1.drs",
+    "com.amazonaws.us-east-1.drs-fips",
     "com.amazonaws.us-east-1.ds",
     "com.amazonaws.us-east-1.ds-data",
     "com.amazonaws.us-east-1.ds-data-fips",
