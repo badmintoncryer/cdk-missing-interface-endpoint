@@ -75,8 +75,6 @@
   "elasticbeanstalk-fips",
   "elasticloadbalancing-fips",
   "elasticmapreduce-fips",
-  "email",
-  "email-fips",
   "entityresolution-fips",
   "events-fips",
   "evs",
