@@ -41,6 +41,8 @@
   "cognito-identity",
   "cognito-identity-fips",
   "config-fips",
+  "connect",
+  "connect-fips",
   "control-storage-omics-fips",
   "controltower",
   "controltower-fips",
