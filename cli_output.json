@@ -405,6 +405,7 @@
     "com.amazonaws.us-east-1.ram",
     "com.amazonaws.us-east-1.ram-fips",
     "com.amazonaws.us-east-1.rbin",
+    "com.amazonaws.us-east-1.rbin-fips",
     "com.amazonaws.us-east-1.rds",
     "com.amazonaws.us-east-1.rds-data",
     "com.amazonaws.us-east-1.rds-fips",

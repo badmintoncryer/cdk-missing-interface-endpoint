@@ -132,6 +132,7 @@
   "quicksight",
   "quicksight-fips",
   "ram-fips",
+  "rbin-fips",
   "rds-fips",
   "rolesanywhere-fips",
   "route53profiles",
