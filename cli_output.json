@@ -515,6 +515,7 @@
     "com.amazonaws.us-east-1.transfer-fips",
     "com.amazonaws.us-east-1.transfer.server",
     "com.amazonaws.us-east-1.transform",
+    "com.amazonaws.us-east-1.transform-custom",
     "com.amazonaws.us-east-1.translate",
     "com.amazonaws.us-east-1.trustedadvisor",
     "com.amazonaws.us-east-1.uxc",
