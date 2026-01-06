@@ -159,6 +159,7 @@
   "transcribestreaming-fips",
   "transfer-fips",
   "transform",
+  "transform-custom",
   "uxc",
   "verifiedpermissions-fips",
   "workflows-omics-fips",
