@@ -401,6 +401,7 @@
     "com.amazonaws.us-east-1.quicksight",
     "com.amazonaws.us-east-1.quicksight-fips",
     "com.amazonaws.us-east-1.quicksight-website",
+    "com.amazonaws.us-east-1.quicksight-website-fips",
     "com.amazonaws.us-east-1.ram",
     "com.amazonaws.us-east-1.ram-fips",
     "com.amazonaws.us-east-1.rbin",
