@@ -490,6 +490,7 @@
     "com.amazonaws.us-east-1.streaming-rekognition-fips",
     "com.amazonaws.us-east-1.sts",
     "com.amazonaws.us-east-1.sts-fips",
+    "com.amazonaws.us-east-1.support",
     "com.amazonaws.us-east-1.supportapp",
     "com.amazonaws.us-east-1.swf",
     "com.amazonaws.us-east-1.swf-fips",
