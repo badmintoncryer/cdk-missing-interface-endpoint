@@ -153,6 +153,7 @@
   "ssm-sap-fips",
   "stream-logs",
   "stream-logs-fips",
+  "support",
   "supportapp",
   "tags-omics-fips",
   "timestream.ingest-cell2",
