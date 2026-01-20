@@ -470,6 +470,8 @@
     "com.amazonaws.us-east-1.sns-fips",
     "com.amazonaws.us-east-1.social-messaging",
     "com.amazonaws.us-east-1.social-messaging-fips",
+    "com.amazonaws.us-east-1.sqlworkbench",
+    "com.amazonaws.us-east-1.sqlworkbench-v2",
     "com.amazonaws.us-east-1.sqs",
     "com.amazonaws.us-east-1.sqs-fips",
     "com.amazonaws.us-east-1.ssm",

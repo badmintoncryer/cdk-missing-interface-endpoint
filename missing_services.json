@@ -148,6 +148,8 @@
   "servicequotas",
   "sns-fips",
   "social-messaging-fips",
+  "sqlworkbench",
+  "sqlworkbench-v2",
   "ssm-incidents-fips",
   "ssm-sap",
   "ssm-sap-fips",
