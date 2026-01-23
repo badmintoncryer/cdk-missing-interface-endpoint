@@ -323,6 +323,7 @@
     "com.amazonaws.us-east-1.lightsail",
     "com.amazonaws.us-east-1.logs",
     "com.amazonaws.us-east-1.logs-fips",
+    "com.amazonaws.us-east-1.logs-insights",
     "com.amazonaws.us-east-1.lookoutequipment",
     "com.amazonaws.us-east-1.lookoutvision",
     "com.amazonaws.us-east-1.lorawan.cups",

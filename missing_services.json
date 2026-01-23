@@ -110,6 +110,7 @@
   "license-manager-user-subscriptions-fips",
   "lightsail",
   "logs-fips",
+  "logs-insights",
   "macie2-fips",
   "mail-manager-smtp.auth.fips",
   "mail-manager-smtp.open.fips",
