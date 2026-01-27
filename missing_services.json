@@ -149,6 +149,7 @@
   "securityhub-fips",
   "servicecatalog-fips",
   "servicequotas",
+  "signer",
   "sns-fips",
   "social-messaging-fips",
   "sqlworkbench",
