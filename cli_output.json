@@ -77,6 +77,7 @@
     "com.amazonaws.us-east-1.backup",
     "com.amazonaws.us-east-1.backup-fips",
     "com.amazonaws.us-east-1.backup-gateway",
+    "com.amazonaws.us-east-1.backup-storage",
     "com.amazonaws.us-east-1.batch",
     "com.amazonaws.us-east-1.batch-fips",
     "com.amazonaws.us-east-1.bcm-pricing-calculator",
