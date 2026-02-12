@@ -32,6 +32,7 @@
   "athena-fips",
   "autoscaling-fips",
   "backup-fips",
+  "backup-storage",
   "batch-fips",
   "bedrock-mantle",
   "budgets",
