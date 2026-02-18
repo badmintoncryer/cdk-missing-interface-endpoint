@@ -4,6 +4,8 @@
     "aws.api.us-east-1.emr-service-cell01",
     "aws.api.us-east-1.freetier",
     "aws.api.us-east-1.kafka",
+    "aws.api.us-east-1.kafka-api",
+    "aws.api.us-east-1.kafka-api-fips",
     "aws.api.us-east-1.kafka-fips",
     "aws.api.us-east-1.kendra-ranking",
     "aws.api.us-east-1.qbusiness",
