@@ -24,6 +24,7 @@
   "aos-dualstack",
   "aos-fips",
   "aoss",
+  "api.transform",
   "apigateway",
   "appconfigdata-fips",
   "appstream2-fips",

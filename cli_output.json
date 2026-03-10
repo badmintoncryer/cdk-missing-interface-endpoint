@@ -44,6 +44,7 @@
     "com.amazonaws.us-east-1.aos-dualstack",
     "com.amazonaws.us-east-1.aos-fips",
     "com.amazonaws.us-east-1.aoss",
+    "com.amazonaws.us-east-1.api.transform",
     "com.amazonaws.us-east-1.apigateway",
     "com.amazonaws.us-east-1.app-integrations",
     "com.amazonaws.us-east-1.appconfig",
