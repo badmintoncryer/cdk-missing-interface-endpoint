@@ -146,6 +146,7 @@
     "com.amazonaws.us-east-1.connect-campaigns-fips",
     "com.amazonaws.us-east-1.connect-fips",
     "com.amazonaws.us-east-1.console",
+    "com.amazonaws.us-east-1.console-static",
     "com.amazonaws.us-east-1.contact-lens",
     "com.amazonaws.us-east-1.control-storage-omics",
     "com.amazonaws.us-east-1.control-storage-omics-fips",
