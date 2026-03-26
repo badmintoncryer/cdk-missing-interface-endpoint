@@ -33,6 +33,7 @@
   "arc-region-switch-fips",
   "arc-zonal-shift",
   "athena-fips",
+  "athena.persistent-dashboard",
   "autoscaling-fips",
   "backup-fips",
   "backup-storage",
