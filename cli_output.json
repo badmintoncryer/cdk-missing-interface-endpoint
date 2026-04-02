@@ -352,6 +352,7 @@
     "com.amazonaws.us-east-1.macie2-fips",
     "com.amazonaws.us-east-1.mail-manager",
     "com.amazonaws.us-east-1.mail-manager-fips",
+    "com.amazonaws.us-east-1.mail-manager-smtp.auth",
     "com.amazonaws.us-east-1.mail-manager-smtp.auth.fips",
     "com.amazonaws.us-east-1.mail-manager-smtp.open",
     "com.amazonaws.us-east-1.mail-manager-smtp.open.fips",
