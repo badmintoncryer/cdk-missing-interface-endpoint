@@ -5,6 +5,8 @@
   "aws.api.kafka-api-fips",
   "aws.api.resource-explorer-2",
   "aws.api.resource-explorer-2-fips",
+  "aws.api.s3files",
+  "aws.api.s3files-fips",
   "aws.api.sustainability",
   "aws.sagemaker.mlflow",
   "com.amazonaws.cloudfront",
