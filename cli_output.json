@@ -356,6 +356,7 @@
     "com.amazonaws.us-east-1.mail-manager-fips",
     "com.amazonaws.us-east-1.mail-manager-smtp.auth",
     "com.amazonaws.us-east-1.mail-manager-smtp.auth.fips",
+    "com.amazonaws.us-east-1.mail-manager-smtp.mtls.fips",
     "com.amazonaws.us-east-1.mail-manager-smtp.open",
     "com.amazonaws.us-east-1.mail-manager-smtp.open.fips",
     "com.amazonaws.us-east-1.managedblockchain-query",

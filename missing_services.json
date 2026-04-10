@@ -135,6 +135,7 @@
   "macie2-fips",
   "mail-manager-smtp.auth",
   "mail-manager-smtp.auth.fips",
+  "mail-manager-smtp.mtls.fips",
   "mail-manager-smtp.open",
   "mail-manager-smtp.open.fips",
   "mediaconvert",
