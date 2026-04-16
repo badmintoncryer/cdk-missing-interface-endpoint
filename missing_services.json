@@ -132,6 +132,7 @@
   "lightsail",
   "logs-fips",
   "logs-insights",
+  "logs-policygen",
   "macie2-fips",
   "mail-manager-smtp.auth",
   "mail-manager-smtp.auth.fips",
