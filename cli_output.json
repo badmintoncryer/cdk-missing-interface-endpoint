@@ -455,6 +455,7 @@
     "com.amazonaws.us-east-1.rekognition",
     "com.amazonaws.us-east-1.rekognition-fips",
     "com.amazonaws.us-east-1.repostspace",
+    "com.amazonaws.us-east-1.resiliencehub",
     "com.amazonaws.us-east-1.resource-groups",
     "com.amazonaws.us-east-1.resource-groups-fips",
     "com.amazonaws.us-east-1.robomaker",
