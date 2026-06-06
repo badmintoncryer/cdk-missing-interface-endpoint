@@ -180,7 +180,6 @@
   "rolesanywhere-fips",
   "route53profiles",
   "route53resolver",
-  "s3-smcsfe-personal",
   "sagemaker-unified-studio-mcp",
   "sagemaker.featurestore-runtime-fips",
   "sagemaker.job-runtime",
