@@ -209,6 +209,7 @@
   "ssm-sap",
   "ssm-sap-fips",
   "sso-oauth",
+  "storagegateway-fips",
   "stream-logs",
   "stream-logs-fips",
   "support",

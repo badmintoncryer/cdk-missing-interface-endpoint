@@ -541,6 +541,7 @@
     "com.amazonaws.us-east-1.states",
     "com.amazonaws.us-east-1.storage-omics",
     "com.amazonaws.us-east-1.storagegateway",
+    "com.amazonaws.us-east-1.storagegateway-fips",
     "com.amazonaws.us-east-1.stream-logs",
     "com.amazonaws.us-east-1.stream-logs-fips",
     "com.amazonaws.us-east-1.streaming-rekognition",
