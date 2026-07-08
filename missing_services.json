@@ -201,6 +201,7 @@
   "servicecatalog-fips",
   "servicequotas",
   "signer",
+  "signin-v2",
   "sns-fips",
   "social-messaging-fips",
   "sqlworkbench",
