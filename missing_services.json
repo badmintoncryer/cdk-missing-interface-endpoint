@@ -64,6 +64,7 @@
   "cloudformation-fips",
   "cloudhsmv2-fips",
   "cloudtrail-fips",
+  "cloudwatch-omni",
   "cloudwatch-omni-threads",
   "codedeploy-fips",
   "codepipeline-fips",
