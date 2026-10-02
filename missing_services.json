@@ -113,6 +113,8 @@
   "elasticmapreduce-services",
   "emr-dashboard",
   "emr-serverless-services.sessions",
+  "end-user-messaging",
+  "end-user-messaging-fips",
   "entityresolution-fips",
   "event-ai",
   "events-fips",
