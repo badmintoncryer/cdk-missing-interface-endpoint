@@ -27,6 +27,7 @@
     "com.amazonaws.us-east-1.account",
     "com.amazonaws.us-east-1.acm",
     "com.amazonaws.us-east-1.acm-acme",
+    "com.amazonaws.us-east-1.acm-acme-enroll",
     "com.amazonaws.us-east-1.acm-fips",
     "com.amazonaws.us-east-1.acm-pca",
     "com.amazonaws.us-east-1.acm-pca-fips",
