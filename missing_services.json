@@ -216,6 +216,7 @@
   "sagemaker-unified-studio-mcp",
   "sagemaker.featurestore-runtime-fips",
   "sagemaker.job-runtime",
+  "sagemaker.training-session-runtime",
   "scheduler",
   "secretsmanager-fips",
   "security-ir",
