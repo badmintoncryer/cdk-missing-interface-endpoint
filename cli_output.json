@@ -254,6 +254,7 @@
     "com.amazonaws.us-east-1.email",
     "com.amazonaws.us-east-1.email-fips",
     "com.amazonaws.us-east-1.email-smtp",
+    "com.amazonaws.us-east-1.email-smtp-fips",
     "com.amazonaws.us-east-1.emr-containers",
     "com.amazonaws.us-east-1.emr-dashboard",
     "com.amazonaws.us-east-1.emr-serverless",

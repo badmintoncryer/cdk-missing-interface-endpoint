@@ -111,6 +111,7 @@
   "elasticloadbalancing-fips",
   "elasticmapreduce-fips",
   "elasticmapreduce-services",
+  "email-smtp-fips",
   "emr-dashboard",
   "emr-serverless-services.sessions",
   "end-user-messaging",
