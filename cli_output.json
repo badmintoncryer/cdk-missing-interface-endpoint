@@ -566,6 +566,7 @@
     "com.amazonaws.us-east-1.sso",
     "com.amazonaws.us-east-1.sso-oauth",
     "com.amazonaws.us-east-1.sso.portal",
+    "com.amazonaws.us-east-1.sso.portal.app",
     "com.amazonaws.us-east-1.states",
     "com.amazonaws.us-east-1.storage-omics",
     "com.amazonaws.us-east-1.storagegateway",

@@ -238,6 +238,7 @@
   "sso",
   "sso-oauth",
   "sso.portal",
+  "sso.portal.app",
   "storagegateway-fips",
   "stream-logs",
   "stream-logs-fips",
