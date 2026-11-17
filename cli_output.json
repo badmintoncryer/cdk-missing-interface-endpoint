@@ -622,6 +622,7 @@
     "com.amazonaws.us-east-1.wafv2",
     "com.amazonaws.us-east-1.wafv2-fips",
     "com.amazonaws.us-east-1.wellarchitected",
+    "com.amazonaws.us-east-1.wellarchitected-agent",
     "com.amazonaws.us-east-1.wickr-admin",
     "com.amazonaws.us-east-1.wickr-calling",
     "com.amazonaws.us-east-1.wickr-messaging",
