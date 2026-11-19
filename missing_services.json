@@ -112,6 +112,7 @@
   "elasticloadbalancing-fips",
   "elasticmapreduce-fips",
   "elasticmapreduce-services",
+  "elb-proxy",
   "email-smtp-fips",
   "emr-dashboard",
   "emr-serverless-services.sessions",

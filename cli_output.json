@@ -251,6 +251,7 @@
     "com.amazonaws.us-east-1.elasticmapreduce",
     "com.amazonaws.us-east-1.elasticmapreduce-fips",
     "com.amazonaws.us-east-1.elasticmapreduce-services",
+    "com.amazonaws.us-east-1.elb-proxy",
     "com.amazonaws.us-east-1.email",
     "com.amazonaws.us-east-1.email-fips",
     "com.amazonaws.us-east-1.email-smtp",
